@@ -8,7 +8,7 @@ The authors use four criteria to examine a novel community detection algorithm: 
 
 # Notification
 1.The HAM program is uploaded to github, you are free to use it for educational purposes.<br />
-2.The algorithm 1 of our paper is uploaded to github due to a mistake during the publishition.<br />
+2.The algorithm 1 of our paper is uploaded to github due to a mistake during the publication.<br />
 3.Our code may not as good as you expect, but it works.<br />
 4.We are glad to hear any messages about your improvements over HAM.<br />
 5.If you have any questions please email to yuhisnag.fu@gmail.com or yuhsiangfu.cs98g@nctu.edu.tw.<br />
