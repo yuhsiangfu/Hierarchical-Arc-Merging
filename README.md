@@ -13,6 +13,6 @@ The authors use four criteria to examine a novel community detection algorithm: 
 4.We are glad to hear any messages about your improvements over HAM.<br />
 5.If you have any questions please email to yuhisnag.fu@gmail.com or yuhsiangfu.cs98g@nctu.edu.tw.<br />
 
-The document of code usage will upload in the near future.<br />
+The document of code usage will be uploaded in the near future.<br />
 
 Yu-Hsiang Fu, 20171202 updated.
