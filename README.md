@@ -12,4 +12,4 @@ The authors use four criteria to examine a novel community detection algorithm: 
 3.We are glad to hear any messages about your improvements over HAM.<br />
 4.Our code/script may not as good as you expect, but it works.<br />
 
-Yu-Hsiang Fu, 20171202.
+Yu-Hsiang Fu, 20171202 updated.
