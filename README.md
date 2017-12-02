@@ -1,5 +1,5 @@
 # Hierarchical-Arc-Merging (HAM) Algorithm
-The title of our paper is "A community detection algorithm using network topologies and rule-based hierarchical arc-merging strategies" publicshed on PloS One website.<br />
+The title of our paper, "A community detection algorithm using network topologies and rule-based hierarchical arc-merging strategies",  is published on PloS One website.<br />
 
 The url is https://doi.org/10.1371/journal.pone.0187603.
 
