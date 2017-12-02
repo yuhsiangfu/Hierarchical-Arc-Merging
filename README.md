@@ -11,5 +11,6 @@ The authors use four criteria to examine a novel community detection algorithm: 
 2.We upload the algorithm 1 of our paper to github due to a mistake during the publishition.<br />
 3.We are glad to hear any messages about your improvements over HAM.<br />
 4.Our code/script may not as good as you expect, but it works.<br />
+5.if you have any questions please email to yuhisnag.fu@gmail.com or yuhsiangfu.cs98g@nctu.edu.tw.
 
 Yu-Hsiang Fu, 20171202 updated.
