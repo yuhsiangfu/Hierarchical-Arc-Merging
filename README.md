@@ -40,8 +40,7 @@ Use the code `network_analysis.py` to read an edge-list of `.txt` file, create a
     filename_list = ['karate_gcc']
     
 ###### Output:
-<iframe src="https://drive.google.com/file/d/1uuRYlif4uSVVzh4AtmBt5p7-kjzgUHcz/preview" width="680" height="380"></iframe>
-
+![](https://drive.google.com/uc?export=view&id=1uuRYlif4uSVVzh4AtmBt5p7-kjzgUHcz)
 
 ## 2.Create a network
 To be continue.
